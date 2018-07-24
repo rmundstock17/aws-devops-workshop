@@ -120,7 +120,7 @@
           <div class="panel-body">
             Don't let this happen to your pooch! 
             Every purchase comes with free custom alterations to ensure a comfortable and snazzy fit.
-            <img src="images/alterations-dog4.png" style="width:287px;height:300px;">
+            <img src="" style="width:287px;height:300px;">
           </div>
         </div>
       </div>
